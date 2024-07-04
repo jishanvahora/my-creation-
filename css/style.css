@@ -4,7 +4,7 @@
 }
 body{
     background-color: skyblue;
-    color:whitesmoke;
+    color: black;
 }
 .imgdiv{
     position: relative;
@@ -46,14 +46,18 @@ body{
 }
 .space{
     font-size: 32px;
+    font-style: italic
 }
 .small{
       padding: 10px;
       font-size: 32px;
+      font-style: italic;
 }
 .submitbtn{
     padding: 10px;
     font-size: 32px;
+    font-style: italic;
+    color-scheme: black;
 }
 .larg{
     position: absolute;
